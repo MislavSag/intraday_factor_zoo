@@ -2,10 +2,9 @@ TODO:
 
 1. Data Collection
 
-[] Collect 15-min intraday data for 272 factor portfolios (from Aleti 2023 data or construct from raw). There should be 169,965 intraday return observa tions on
+- [] Collect 15-min intraday data for 272 factor portfolios (from Aleti 2023 data or construct from raw). There should be 169,965 intraday return observa tions on
 each of the factors.
-
-[] Reproduce factor returns for 3 arbitrary factors and for arbitrary years. Choose factors we have data for.
+- [] Reproduce factor returns for 3 arbitrary factors and for arbitrary years. Choose factors we have data for.
 
 [] Align timestamps and merge factor data with Fama-French market portfolio & ETF (SPY).
 
