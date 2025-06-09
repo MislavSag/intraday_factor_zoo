@@ -4,51 +4,32 @@ format: html
 editor: visual
 ---
 
- 
-
 # Data
 
-Our primary data set consists of high-frequency returns for the 272 portfolios constructed in Aleti (2023), spanning January 2, 1996, to December 31, 2020.
-200 cross-sectional risk factors
-
+Our primary data set consists of high-frequency returns for the 272 portfolios constructed in Aleti (2023), spanning January 2, 1996, to December 31, 2020. 200 cross-sectional risk factors
 
 # Preparation
 
-"In addition, motivated by the fact that, in an arbitrage-free, continuous-time setting, price jumps are  inherently unpredictable (see, e.g., Fontana et al. 2019), we deliberately filter out excessively large returns before the estimation of our prediction models, thereby 
-allowing us to more keenly focus on the continuous, and potentially theoretically predictable, smooth high- frequency returns"
-
+"In addition, motivated by the fact that, in an arbitrage-free, continuous-time setting, price jumps are inherently unpredictable (see, e.g., Fontana et al. 2019), we deliberately filter out excessively large returns before the estimation of our prediction models, thereby allowing us to more keenly focus on the continuous, and potentially theoretically predictable, smooth high- frequency returns"
 
 # Trading Strategy
 
 Main asset - SPY ETF
 
-
-# Results 
+# Results
 
 SR - 1.37 (vs 0.09 Buy and Hold)
 
 annualized Fama-French six-factor risk-adjusted alpha of 20.83%
 
-**IMPORTANT FEATURES** 
+**IMPORTANT FEATURES**
 
-- liquidity and tail risk factors.
-- "factors based on various measures of turnover and liquidity as the key drivers of our superior Sharpe ratios and alphas.
-
-
+-   liquidity and tail risk factors.
+-   "factors based on various measures of turnover and liquidity as the key drivers of our superior Sharpe ratios and alphas.
 
 # Future ideas
 
-Classic literature on cross-autocorrelations and the finding that the returns on larger firms tend to lead the returns on smaller firms.
-References:
-Lo AW, MacKinlay AC (1990) When are contrarian profits due to stock market overreaction? Rev. Financial Stud. 3(2):175–205.
-Chordia T, Sarkar A, Subrahmanyam A (2007) The microstructure of cross-autocorrelations. Working paper, Federal Reserve Bank of New York, New York.
-Hou K (2007) Industry information diffusion and the lead-lag effect in stock returns. Rev. Financial Stud. 20(4):1113–1138.
+Classic literature on cross-autocorrelations and the finding that the returns on larger firms tend to lead the returns on smaller firms. References: Lo AW, MacKinlay AC (1990) When are contrarian profits due to stock market overreaction? Rev. Financial Stud. 3(2):175–205. Chordia T, Sarkar A, Subrahmanyam A (2007) The microstructure of cross-autocorrelations. Working paper, Federal Reserve Bank of New York, New York. Hou K (2007) Industry information diffusion and the lead-lag effect in stock returns. Rev. Financial Stud. 20(4):1113–1138.
 
-Pockets of predictability
-Refferences:
-Christensen K, Oomen RC, Ren` o R (2022) The drift burst hypothesis. J. Econometrics 227(2):461–497
-Andersen TG, Li Y, Todorov V, Zhou B (2023) Volatility measurement with pockets of extreme return persistence. J. Econometrics 237(2):105048.
-Bandi FM, Kolokolov A, Pirino D, Ren` o R (2023) Discontinuous trading in continuous-time econometrics. Working paper, John HopkinsUniversity, Baltimore.
-
-
+Pockets of predictability Refferences: Christensen K, Oomen RC, Ren`o R (2022) The drift burst hypothesis. J. Econometrics 227(2):461–497 Andersen TG, Li Y, Todorov V, Zhou B (2023) Volatility measurement with pockets of extreme return persistence. J. Econometrics 237(2):105048. Bandi FM, Kolokolov A, Pirino D, Ren` o R (2023) Discontinuous trading in continuous-time econometrics. Working paper, John HopkinsUniversity, Baltimore.
 
